@@ -52,5 +52,14 @@
     "priceCurrency": "PHP",
     "lat": 16.847460,
     "lng": 120.351309
+  },
+  {
+    "id": 212,
+    "name": "My Home Address",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SaFernandoCityLa_Unionjf462.JPG/1200px-SaFernandoCityLa_Unionjf462.JPG",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.605758,
+    "lng": 120.318865
   }
 ]
