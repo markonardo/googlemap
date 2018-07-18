@@ -61,14 +61,5 @@
     "priceCurrency": "PHP",
     "lat": 16.605758,
     "lng": 120.318865
-  },
-   {
-    "id": 213
-    "name": "Pugad Adventure, Pugo La Union",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SaFernandoCityLa_Unionjf462.JPG/1200px-SaFernandoCityLa_Unionjf462.JPG",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.336935,
-    "lng": 120.479530
   }
 ]
