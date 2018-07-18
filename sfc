@@ -4,27 +4,27 @@
     "name": "Ma-Cho Temple (Taoist Temple)",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
     "price": 164,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.884211,
     "lng": 2.346890
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "name": "Christ The Redeemer Statue",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/de/20/99/christ-the-redeemer-la.jpg",
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "PHP",
+    "lat": 16.620766,
+    "lng": 120.319047
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Halo-Halo De Iloko",
+    "imageUrl": "http://1.bp.blogspot.com/-rX0rlDLBJ-0/UidR3SYMWvI/AAAAAAAABpo/ioGIArv0WlA/s1600/DSC05211.JPG",
     "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "PHP",
+    "lat": 16.617519,
+    "lng": 120.320112
   },
   {
     "id": 205,
